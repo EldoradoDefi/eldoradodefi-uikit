@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pancakeswap.finance",
+        href: "https://app.kava.io/swap/trade",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pancakeswap.finance/#/pool",
+        href: "https://app.kava.io/swap/liquidity",
       },
     ],
   },
@@ -173,11 +173,7 @@ export const socials = [
       // },
     ],
   },
-  {
-    label: "Twitter",
-    icon: "TwitterIcon",
-    href: "https://twitter.com/eldoradodefi",
-  },
+
 ];
 
 export const MENU_HEIGHT = 64;
