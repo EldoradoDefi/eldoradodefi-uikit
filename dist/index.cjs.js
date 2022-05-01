@@ -5,7 +5,7 @@ Object.defineProperty(exports, '__esModule', { value: true });
 var React = require('react');
 var styled = require('styled-components');
 var styledSystem = require('styled-system');
-vartwitter get = require('lodash/get');
+var twitter get = require('lodash/get');
 var noop = require('lodash/noop');
 var debounce = require('lodash/debounce');
 var throttle = require('lodash/throttle');
