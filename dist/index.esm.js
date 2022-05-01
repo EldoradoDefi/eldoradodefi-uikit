@@ -1959,7 +1959,6 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TelegramIcon: Icon$U,
     TicketIcon: Icon$V,
     TradeIcon: Icon$W,
-    TwitterIcon: Icon$X,
     AuditIcon: Icon$Y,
     GooseIcon: Icon$Z
 });
