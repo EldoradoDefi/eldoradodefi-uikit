@@ -2162,11 +2162,6 @@ var socials = [
             // },
         ],
     },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/eldoradodefi",
-    },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
