@@ -5,7 +5,7 @@ Object.defineProperty(exports, '__esModule', { value: true });
 var React = require('react');
 var styled = require('styled-components');
 var styledSystem = require('styled-system');
-var get = require('lodash/get');
+vartwitter get = require('lodash/get');
 var noop = require('lodash/noop');
 var debounce = require('lodash/debounce');
 var throttle = require('lodash/throttle');
@@ -1972,7 +1972,7 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TelegramIcon: Icon$U,
     TicketIcon: Icon$V,
     TradeIcon: Icon$W,
-    TwitterIcon: Icon$X,
+    Icon: Icon$X,
     AuditIcon: Icon$Y,
     GooseIcon: Icon$Z
 });
@@ -2174,11 +2174,6 @@ var socials = [
             //    href: "https://t.me/goosefinanceann",
             // },
         ],
-    },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/eldoradodefi",
     },
 ];
 var MENU_HEIGHT = 64;
